@@ -1,5 +1,9 @@
 # Stock Trend Prediction
 
+![image](https://github.com/user-attachments/assets/ccec2859-7d42-46d7-bf78-b623fd1a7eb6)
+
+
+
 ## 📚 Project Overview
 
 The **Stock Trend Prediction** project predicts stock price trends using historical data and deep learning techniques. It provides an interactive web application for users to visualize stock trends and access original vs. predicted price comparisons for informed decision-making.
